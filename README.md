@@ -1,2 +1,2 @@
 # loadingbar
-A simple, customizable loading bar in the terminal written in rust
+A simple, customizable loading bar for the terminal written in rust
