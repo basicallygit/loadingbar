@@ -1,7 +1,13 @@
 # loadingbar
 A simple, customizable loading bar for the terminal written in rust
+[crates.io](https://crates.io/crates/loadingbar)
 
 ## Usage
+
+#### Add the following to your `Cargo.toml`:
+```
+[dependencies]
+loadingbar = "1.0.1"
 
 ### Default loading bar
 ```rust
