@@ -8,6 +8,7 @@ A simple, customizable loading bar for the terminal written in rust
 ```
 [dependencies]
 loadingbar = "1.0.1"
+```
 
 ### Default loading bar
 ```rust
